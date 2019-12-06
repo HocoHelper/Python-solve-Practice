@@ -1,4 +1,4 @@
-# https-maktabkhooneh.org
+# Python 
 Python Introductory ( Solve all exercises)
 سلام سلام !
 I'm Hoco  
